@@ -1,0 +1,7 @@
+.{
+    .fingerprint = 0xe3ae6c0c61bf82cb,
+    .name = .zig_vectorscan,
+    .version = "0.1.0",
+    .minimum_zig_version = "0.15.2",
+    .paths = .{ "build.zig", "build.zig.zon", "src", "scripts" },
+}
